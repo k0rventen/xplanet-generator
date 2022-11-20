@@ -14,5 +14,5 @@ xplanet -config config \
             -date $(date +%Y%m%d.%H%M%S)\
             -searchdir rayleigh \
             -geometry 1024x1024 \
-            -transpng  ./out/xplanet_$(date +%Y%m%d.%H%M%S).png \
+            -output  ./out/xplanet_$(date +%Y%m%d.%H%M%S).png \
             -num_times 1
