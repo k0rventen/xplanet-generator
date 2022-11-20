@@ -1,0 +1,14 @@
+[earth]
+map=maps/day_10.jpg
+cloud_map=maps/clouds.png
+bump_map=maps/topology.jpg
+cloud_threshold=120
+night_map=maps/night.jpg
+
+shade=10
+twilight=6
+
+rayleigh_emission_weight=10
+rayleigh_limb_scale=10
+rayleigh_scale=10
+rayleigh_file=earthRayleigh
